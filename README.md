@@ -33,4 +33,15 @@ The user can also add their own API Key which can be generated from Google Cloud
     | ---- | ----- |
     | key | Generated API key |
 
+## Installation and Usage 
 
+1. Clone the repo \
+```git clone https://github.com/nikhilvashisht/FamPay_Backend_Intern_Assignment.git```
+
+2. Install the requirements \
+```pip install -r requirements.txt```
+
+3. Generate your API Key and save to db using ```api/submit_key``` or use key ```AIzaSyDOQUo9e0KjW-o9AQRtwn87Bku2-ykubN0``` (This may get exhausted soon.)
+
+4. Run the server \
+```python manage.py runserver```
