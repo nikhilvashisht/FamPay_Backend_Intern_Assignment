@@ -13,11 +13,13 @@ The API fetches latest videos from youtube API (with a predefined query, which i
 
 The API serves data in a paginated response, with 10 entries per page.
 
-![Alt text](image.png)
+![image](https://github.com/nikhilvashisht/FamPay_Backend_Intern_Assignment/assets/73426621/38bbbcf0-de61-42de-a08f-579510d3ff3f)
+
 
 The user can also add their own API Key which can be generated from Google Cloud Console [see here](https://developers.google.com/youtube/v3/getting-started)
 
-![Alt text](image-1.png)
+![image](https://github.com/nikhilvashisht/FamPay_Backend_Intern_Assignment/assets/73426621/27d4e730-6e34-4881-96ef-1db9c6d1c1a4)
+
 
 ## API Reference 
 
